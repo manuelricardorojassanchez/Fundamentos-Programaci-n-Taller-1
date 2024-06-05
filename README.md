@@ -1,2 +1,2 @@
-# Fundamentos-Programaci-n-Taller-1
+# Algoritmos Basicos
 Miscelánea de Ejercicios 1-8
